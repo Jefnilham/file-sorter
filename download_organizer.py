@@ -10,7 +10,7 @@ file_softwares = ['.apk','.bat','.bin', '.exe','.jar','.msi','.py']
 file_videos = ['.3gp','.avi','.flv','.h264','.mkv','.mov','.mp4','.mpg','.mpeg','.wmv']
 
 # downloads folder
-downloads_folder = input("Enter folder to sort by file type:")
+downloads_folder = input("Enter filepath to sort folder by file type:")
 
 # subfolders within downloads folder
 downloads_subfolder = ['Audio', 'Compressed', 'Documents', 'Codes', 'Images', 'Software', 'Videos', 'Others']
