@@ -9,3 +9,4 @@ Assigns file types to subfolders according to file extensions in a given folder
 
 # how i use it
 I set the path to only on my downloads folder and convert the script to an executable that will run periodically.
+- Tip to convert py to exe on windows cmd: 'pyinstaller --onefile --noconsole myfile.py'
