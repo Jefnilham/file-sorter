@@ -1,3 +1,3 @@
 # file-sorter
-Helpful script assigns file types to desingated subfolders according to file extensions 
+Assigns file types to subfolders according to file extensions in a given folder
 
