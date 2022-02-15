@@ -1,2 +1,3 @@
 # file-sorter
-Creates subfolders for designated selected folder and assigns file types to subfolders according to file extensions
+Helpful script assigns file types to desingated subfolders according to file extensions 
+
